@@ -7,7 +7,7 @@ About me
 
 💻 Technical Background: Electronics Technician, CEFET-MG
 
-🗣️ Languages: Fluent in Portuguese and Spanish; B2 in English
+🗣️ Languages: Fluent in Portuguese and Spanish; C1 English
 
 🚀 Passionate about technology, coding, and exploring new solutions.
 

@@ -1,14 +1,39 @@
-## Daniel Alves Gonçalves
-Hello everyone! I'm an Electronics Technician with a degree from CEFET-MG and currently a Computer Science student at PUC-MINAS.
+# 👋 Daniel Alves Gonçalves
 
-About me
+Computer Science student at **PUC Minas** with a technical background in **Electronics from CEFET-MG**.
 
-📖 Studying: Computer Science at PUC-Minas
+I'm interested in **software development, algorithms, databases, and technology**, with a particular interest in understanding how software and hardware can work together to build practical solutions.
 
-💻 Technical Background: Electronics Technician, CEFET-MG
+## 🎓 Education
 
-🗣️ Languages: Fluent in Portuguese and Spanish; C1 English
+* **Computer Science** — PUC Minas | 2024–2028
+* **Electronics Technician** — CEFET-MG | 2021–2023
 
-🚀 Passionate about technology, coding, and exploring new solutions.
+## 💻 Technologies
 
-Feel free to connect!
+**Programming:** C, C++, Java, JavaScript
+**Web:** HTML, CSS
+**Databases:** PostgreSQL, SQL
+**Tools & Technologies:** Git, GitHub, Docker
+**Other:** Verilog, Logisim
+
+## 🚀 Projects
+
+I use my repositories to document academic and personal projects involving:
+
+* Algorithms and data structures
+* Software development
+* Databases and backend systems
+* Web development
+* Computer architecture and digital systems
+
+## 🌎 Languages
+
+* Portuguese — Native
+* Spanish — Fluent
+* English — Advanced
+
+## 📫 Connect with me
+
+* **LinkedIn:** [Daniel Alves Gonçalves](https://www.linkedin.com/in/danielalvesgoncalves/)
+* **GitHub:** [danielalvesbr](https://github.com/danielalvesbr)

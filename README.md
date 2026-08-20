@@ -11,11 +11,11 @@ I'm interested in **software development, algorithms, databases, and technology*
 
 ## 💻 Technologies
 
-**Programming:** C, C++, Java, JavaScript
-**Web:** HTML, CSS
-**Databases:** PostgreSQL, SQL
-**Tools & Technologies:** Git, GitHub, Docker
-**Other:** Verilog, Logisim
+* **Programming:** C, C++, Java, JavaScript
+* **Web:** HTML, CSS
+* **Databases:** PostgreSQL, SQL
+* **Tools & Technologies:** Git, GitHub, Docker
+* **Other:** Verilog, Logisim
 
 ## 🚀 Projects
 

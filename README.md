@@ -46,7 +46,7 @@ Também já usei SQL, HTML e CSS, e na eletrônica trabalhei com Verilog e Logis
 
 ## Idiomas
 
-Português (nativo) | Inglês (avançado) | Espanhol (fluente)
+Português (nativo) | Inglês (avançado) | Espanhol (nativo)
 
 ## Contato
 
